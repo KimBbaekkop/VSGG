@@ -32,3 +32,4 @@ python TEATGT_evaluate.py --mode predcls --datasize mini --data_path /DATA/PATH 
 - Unbiased Video Scene Graph Generation Reference: https://openaccess.thecvf.com/content/CVPR2023/papers/Nag_Unbiased_Scene_Graph_Generation_in_Videos_CVPR_2023_paper.pdf
 # VSGG
 # VSGG
+# VSGG
